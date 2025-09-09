@@ -37,6 +37,8 @@ namespace Lab1._4_Homework_Kuzmina
             Console.WriteLine("");
             Console.WriteLine("=== КОНЕЦ ПРОФИЛЯ ===");
             Console.ReadLine();
+            
+
         }
     }
 }
